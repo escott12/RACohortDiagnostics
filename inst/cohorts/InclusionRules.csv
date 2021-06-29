@@ -1,4 +1,23 @@
 cohortName,ruleSequence,ruleName,cohortId
-14907,0,With no history of gastrointestinal hemorrhage,14907
-18349,0,Gender is male,18349
-18350,1,Metabolic disease at any time,18350
+[Scott] Prevalent mono-users of methotrexate at corona era onset,0,Age >= 18 years old and sex = male OR age >= 40 years old and sex = female,1888
+[Scott] Prevalent mono-users of methotrexate at corona era onset,1,has >= 180d of prior observation,1888
+[Scott] Prevalent mono-users of methotrexate at corona era onset,2,has RA diagnosis anytime before (and including) start-date,1888
+[Scott] Prevalent mono-users of methotrexate at corona era onset,3,no prior inflammatory arthropathy,1888
+[Scott] Prevalent mono-users of methotrexate at corona era onset,4,"No exposure to csDMARDs other than methotrexate, bsDMARDs, tsDMARDs",1888
+[Scott] Prevalent mono- or combo-users of csDMARD other than methotrexate at corona era onset,0,Age >= 18 years old and sex = male OR age >= 40 years old and sex = female,1891
+[Scott] Prevalent mono- or combo-users of csDMARD other than methotrexate at corona era onset,1,has >= 180d of prior observation,1891
+[Scott] Prevalent mono- or combo-users of csDMARD other than methotrexate at corona era onset,2,has RA diagnosis anytime before (and including) start-date,1891
+[Scott] Prevalent mono- or combo-users of csDMARD other than methotrexate at corona era onset,3,no prior inflammatory arthropathy,1891
+[Scott] Prevalent mono- or combo-users of csDMARD other than methotrexate at corona era onset,4,no prior exposure to bsDMARDs or tsDMARDs,1891
+[Scott] Prevalent mono- or combo-users of bsDMARD other than TNF-inhibitor at corona era onset ,0,Age >= 18 years old and sex = male OR age >= 40 years old and sex = female,1892
+[Scott] Prevalent mono- or combo-users of bsDMARD other than TNF-inhibitor at corona era onset ,1,has >= 180d of prior observation,1892
+[Scott] Prevalent mono- or combo-users of bsDMARD other than TNF-inhibitor at corona era onset ,2,has RA diagnosis anytime before (and including) start-date,1892
+[Scott] Prevalent mono- or combo-users of bsDMARD other than TNF-inhibitor at corona era onset ,3,no prior inflammatory arthropathy,1892
+[Scott] Prevalent mono- or combo-users of tsDMARD at corona era onset ,0,Age >= 18 years old and sex = male OR age >= 40 years old and sex = female,1893
+[Scott] Prevalent mono- or combo-users of tsDMARD at corona era onset ,1,has >= 180d of prior observation,1893
+[Scott] Prevalent mono- or combo-users of tsDMARD at corona era onset ,2,has RA diagnosis anytime before (and including) start-date,1893
+[Scott] Prevalent mono- or combo-users of tsDMARD at corona era onset ,3,no prior inflammatory arthropathy,1893
+[Scott] Prevalent mono- or combo-users of TNF-inhibitor at corona era onset ,0,Age >= 18 years old and sex = male OR age >= 40 years old and sex = female,1894
+[Scott] Prevalent mono- or combo-users of TNF-inhibitor at corona era onset ,1,has >= 180d of prior observation,1894
+[Scott] Prevalent mono- or combo-users of TNF-inhibitor at corona era onset ,2,has RA diagnosis anytime before (and including) start-date,1894
+[Scott] Prevalent mono- or combo-users of TNF-inhibitor at corona era onset ,3,no prior inflammatory arthropathy,1894

@@ -1,7 +1,6 @@
 ﻿atlasId,cohortId,cohortName
-17493,17493,[PL 192671001] Gastrointestinal hemorrhage referent concept incident cohort: First occurrence of referent concept + descendants with >=365d prior observation
-17692,17692,[PL 201254002] Type 1 diabetes mellitus referent concept prevalent cohort: First occurrence of referent concept + descendants
-17693,17693,[PL 201254001] Type 1 diabetes mellitus referent concept incident cohort: First occurrence of referent concept + descendants with >=365d prior observation
-18349,18349,[1124300004] Male Diclofenac
-18350,18350,[1124300005] Male Diclofenac with some disorder or body system
-14907,14907,[1124300003] Users of diclofenac with no history of gastrointestinal hemorrhage
+1888,1888,[Scott] Prevalent mono-users of methotrexate at corona era onset
+1891,1891,[Scott] Prevalent mono- or combo-users of csDMARD other than methotrexate at corona era onset
+1894,1894,[Scott] Prevalent mono- or combo-users of TNF-inhibitor at corona era onset 
+1892,1892,[Scott] Prevalent mono- or combo-users of bsDMARD other than TNF-inhibitor at corona era onset 
+1893,1893,[Scott] Prevalent mono- or combo-users of tsDMARD at corona era onset 
